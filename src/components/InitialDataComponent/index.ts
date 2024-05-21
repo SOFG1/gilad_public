@@ -1,0 +1,1 @@
+export {default as InitialDataComponent} from './InitialDataComponent'

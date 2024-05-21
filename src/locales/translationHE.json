@@ -1,0 +1,289 @@
+{
+
+  "tag": "מקור",
+  "cat": "קטגוריה",
+  "subcategory":"סיווג משנה",
+  "title": " שם",
+
+
+  "date": " תאריך",
+  "link": " לינק ישיר",
+  "description": "גוף הטקסט",
+
+
+
+  "committee": " וועדה",
+  "recommend_committee": "וועדה ממליצה",
+  "files": "קבצים",
+  "last_name_initiator": "יוזם - שם משפחה",
+  "first_name_initiator": "יוזם - שם פרטי",
+  "email_initiator": "יוזם - מייל",
+  "email_minister": "שר - מייל",
+  "last_name_minister": "שר - שם משפחה",
+  "first_name_minister": "שר - שם פרטי",
+  "last_updated_date": "תאריך עדכון אחרון",
+  "source_link": "כתובת אתר המקור",
+  "first_link": "כתובת העמוד בתוך האתר",
+  "inner_link_name": "כותרת העדכון",
+  "inner_link": "קישור ישיר לפרסום",
+  "number": "מספר הצעה לסדר-יום",
+  "status": "סטאטוס",
+  "gov_recommendation_desc": "תיאור עמדת הממשלה",
+  "president_decision_date": " תאריך החלטת נשיאות הכנסת",
+  "postopenment_reason_desc": " תיאור סיבת הדחייה",
+
+
+  "location": " מיקום הישיבה",
+  "start_date": "תאריך התחלה",
+  "finish_date": "תאריך סיום",
+  "cmt_session_items": "הפריטים ששובצו לישיבת ועדה",
+  
+
+
+  "is_special_meeting": "ישיבה מיוחדת?",
+  "plenum_session_items": "הפריטים ששובצו לישיבת מליאה",
+
+
+
+  "submit_date": " תאריך הגשת השאילתה",
+  "gov_ministry_id": " קוד המשרד הממשלתי שאליו הופנתה השאילתה",
+  "reply_ministry_date": "תאריך תשובה בפועל",
+  "reply_date_planed": "תאריך תשובה מתוכנן",
+
+
+  "gov_ministry_name": "שם המשרד הממשלתי",
+  "duty_desc": "תיאור התפקיד",
+  "faction_name": "שם הסיעה",
+  "is_current": "האם פעיל?",
+  "last_name": "שם משפחה",
+  "first_name": "שם פרטי",
+  "email": "מייל",
+  "gender_desc": "מין",
+  "position_description": "תיאור התפקיד",
+
+
+  "private_number": "מספר ה-פ' של הצעת החוק",
+  "bill_number": " מספר ה-כ' או ה-מ' של הצעת החוק",
+  "bill_postopenment_reason_desc": " תיאור סיבת העצירה (אם ההצעה נעצרה)",
+  "publication_date": "תאריך פרסום בספר החוקים",
+  "magazine_number": " מספר חוברת בספר החוקים",
+  "page_number": "מספר עמוד בספר החוקים",
+  "is_continuation_bill": " האם הוחל על הצעת החוק דין רציפות",
+  "summary_law": "תקציר החוק",
+  "publication_series_desc": "תיאור סדרת הפרסום של החוק",
+  "publication_series_first_call": "תיאור סדרת הפרסום של הצעת החוק לקריאה הראשונה",
+
+  "meeting_date": "תאריך של הישיבה",
+  "ministry": "משרד",
+  "name": "שם",
+  "files_govdata": "קבצים או נושאים",
+  "exp_date": "ניתן להעביר הצעות עד",
+  "created_at": "תאריך עדכון אחרון",
+  "root_link": "לינק מקור",
+  "front_link": "לינק ישיר",
+  "classification_desc": "תת-סוג",
+  "initiator": "יזם",
+  "keywords": "מילות מפתח",
+  "minister": "משרד",
+  "source": "לינק מקור",
+  "source_name": "שם המקור",
+  "sub_title": "תיאור",
+  "article_by_line": "שם הכתבה",
+  "datetime_knesset": "תאריך פרסום בכנסת",
+  "pulished_page_content": "תוכן הכתבה",
+  "text": "תוכן",
+
+
+  "/// Front-End ///": "/// Front-end below ///",
+
+  "sign-in_title": "כניסה",
+  "sign-in_login-label": "שם משתמש",
+  "sign-in_login-placeholder": "שם משתמש",
+  "sign-in_password-label": "סיסמה",
+  "sign-in_password-placeholder": "סיסמה",
+  "sign-in_sign-in": "כניסה",
+
+
+  
+  "emails_title1": "חדשות",
+  "emails_title2": "משרדי הממשלה",
+  "emails_title3": "עדכוני סל תרופות",
+  "emails_title4": "כנסת - כללי",
+  "emails_title5": "פרוטוקול ועדות הכנסת",
+  "emails_keywords": "מילות מפתח",
+  "emails_selected-filter": "לקוח נבחר:",
+  "emails_selected-clear": "נקה בחירה",
+  "post-card_sort-date": "תאריך עדכון",
+  "post-card_inner-posts": "Inner posts: ",
+  "emails_new-available": "פרסומים/עדכונים חדשים עלו לאתר",
+
+
+  "emails_data-from-db": "נתוני פריט המידע",
+  "emails_used-posts": "פרסומים שנבחרו למייל זה",
+  "emails_data-no-data": "אין מידע זמין",
+  "emails_edit-title": "עריכת מייל ללקוח",
+  "emails_direct-link": "לינק ישיר",
+  "emails_committee-link": "לינק לחומרי הישיבה",
+  "date_added_to_db": "תאריך קבלת העדכון במערכת",
+  "emails_content-formats": "טמפלייטים",
+  "emails_email-subject": "נושא",
+  "emails_posts": "Posts",
+  "emails_select-clients": "בחר לקוחות לשליחה",
+  "emails_suggested-clients": "ממלצים לעדכון זה",
+  "emails_clients-label": "לקוחות",
+  "emails_edit-next": "הבא",
+  "emails_edit-send": "שליחה",
+  "emails_edit-save_draft": "save draft",
+  "emails_send-error": "מייל  לא נשלח - נא לבדוק תקינות המיילים של הלוקוחות הנבחרים",
+  "emails_send-success": "מייל נשלח בהצלחה",
+
+  "emails_send-history": "מסך היסטוריית שליחה",
+  "emails_send-history_title": "היסטוריית שליחה",
+  "emails_send-history_clients": "נשלח ל",
+  "emails_send-history_close": "סגירה",
+  "emails_send-history_back": "אחורה",
+
+  "birthdays_title": "Edit Clients' Birthdays",
+  "birthdays_name-label": "Birthday name",
+  "birthdays_name-plhr": "Enter name",
+  "birthdays_office-label": "Office position",
+  "birthdays_office-plhr": "Enter Office position",
+  "birthdays_organization-label": "Organization",
+  "birthdays_organization-plhr": "Enter Organization",
+  "birthdays_month": "Month",
+  "birthdays_day": "Day",
+  "birthdays_title2": "All Birthdays",
+  "birthdays_search": "Search Birthday",
+
+
+
+
+
+
+
+
+  "filters-search": "חיפוש",
+  "filters-tag": "סינון לפי מקור מידע",
+  "filters-g_tag": "מקור חדשות",
+  "filters-cat": "סינון לפי קטגוריה",
+  "filters-apply": "apply",
+  "filters-clear": "clear",
+  
+
+
+  "btn_email": "מייל",
+  "btn_edit": "עריכה",
+  "btn_delete": "מחיקה",
+  "btn_calendar": "יומן",
+
+
+  "clients_title1": "יש לך ",
+  "clients_title2": "לקוחות עכשיו",
+  "clients_edit-clients": "עריכת לקוחות",
+  "clients_edit-keywords": "עריכת מילות מפתח",
+
+
+  "clients-editor_title1": "עריכת לקוחות",
+  "clients-editor_name-plhr": "שם לקוח להוספה",
+  "clients-editor_name-label": "הוסף לקוח",
+  "clients-editor_email-plhr": "הוסף דוא״ל",
+  "clients-editor_email-label": "דוא״ל",
+  "clients-editor_search-label": "חיפוש",
+  "clients-editor_add-keyword": "הוספת מילות מפתח",
+  "clients-editor_save": "שמירה",
+  "clients-editor_close": "סגירה",
+  "clients-editor_title2": "לקוחות",
+  "clients_name-email-empty": "שם הלקוח ומייל - שדות חובה. נא למלא גם שם הלקוח וגם להוסיף לו לפחות מייל אחד",
+  "clients_birthday": "ימי הולדת של נציגי הלקוחות",
+  "clients_confirm-del": "האם את/ה בטוח/ה שברצונך להסיר לקוח זה?",
+  "clients_delete_error": "רק משתמשי אדמין יכולים למחוק לקוחות",
+
+
+  "keyword-editor_title1": "הוספת מילות מפתח",
+  "keyword-editor_keyword-plhr": "הוסף כאן מילת מפתח",
+  "keyword-editor_keyword-label": "מילת מפתח",
+  "keyword-editor_clients-plhr": "לקוחות",
+  "keyword-editor_clients-label": "לקוחות",
+  "keyword-editor_title2": "מילות מפתח משויכות ללקוח",
+  "keyword-editor_search": "חיפוש",
+  "keyword-editor_save": "שמירה",
+  "keyword-editor_close": "סגירה",
+  "keywords_confirm-del": "האם אתה בטוח שאתה רוצה להסיר את המילה ?",
+
+
+  "add-user_users": "מסך עריכת משתמשים",
+  "add-user_title1": "הוספת משתמש חדש",
+  "add-user_title2": "מסך עריכת משתמשים",
+  "add-user_login": "שם משתמש",
+  "add-user_password": "סיסמה",
+  "add-user_email": "דואל",
+  "add-user_email-password": "סיסמה למייל",
+  "add-user_full-name": "שם מלא בעברית",
+  "add-user_full-name_en": "שם מלא באנגלית",
+  "add-user_title": "תפקיד",
+  "add-user_mob-phone": "טלפון סלולרי",
+  "add-user_office-phone": "טלפון משרדי",
+  "add-user_sources": "מקורות מידע",
+  "add-user_client-editor": "גישה למסך עריכת לקוחות",
+  "add-user_keyword-editor": "גישה למסך עריכת מילות מפתח",
+
+
+  "add-user_search": "חיפוש",
+  "add-user_save": "שמירה",
+  "add-user_close": "סגירה",
+  "add-user_clear": "Clear",
+  "add-user_staff": "האם המשתמש אדמין?",
+  "add-user_active": "האם המשתמש פעיל?",
+  "add-user_signature": "Signature image",
+  "add-user_del-warning": "האם את/ה בטוח/ה ?",
+
+
+
+  "drafts-drafts": "drafts",
+  "drafts-title": "Drafts",
+  "drafts-no_drafts": "אין טיוטות שמורות",
+  "drafts_save-success": "daft was saved successfully",
+  "committee_link": "לינק לאתר ועדה",
+  "initiators": "יוזמים",
+  "commity_link": "לינק לאתר ועדה" ,
+  "method": "אופן משיכת נתונים",
+  "file_link": "לינק לקובץ",
+  "source_link_app_agenda": "לינק לחיפוש הצעות לסדר יום",
+  "agenda_name": "שם",
+  "agenda_number": "מספר",
+  "member_init": "שם ח״כ",
+  "prop_type": "סוג הדיון",
+  "source_link_plenumal": "לינק לישיבות המלאה",
+  "source_link_plenum_weeklyagenda": "לינק לסדר-היום השבועי למליאת הכנסת",
+
+  "bug_report-btn": "דיווח תקלה",
+  "bug_report-title": "דיווח תקלה",
+  "bug_report-description_label": "פירוט קצר של התקלה",
+  "bug_report-description_plhr": "הוסף פירוט",
+  "bug_report-steps_label": "צעדים לשחזור התקלה",
+  "bug_report-steps_plhr": "הוסף צעדים",
+  "bug_report-criticality_label": "רמת פגיעת התקלה בפעילות המערכת",
+  "bug_report-criticality1": "1. קריטי מאוד - לא מאפשר שימוש במערכת בכלל",
+  "bug_report-criticality2": "2. קריטי - פוגע בביצוע אבל עדיין ניתן להשתמש במערכת ",
+  "bug_report-criticality3": "3. בעיה קוסמטית",
+  "bug_report-criticality4": "4. לא תקלה- בקשה לפיצ'ר חדש",
+  "bug_report-criticality_plhr": "בחר רמת קריטיות של התקלה",
+  "bug_report-files": "צירוף קבצים",
+  "bug_report-report": "דווח",
+  "bug_report-close": "סגירה",
+  "bug_report-error": "אנא מלא את כל השדות",
+  "bug_report-success": "דיווח נשלח בהצלחה",
+  "bug_report-criticality1": "bug_report-criticality1",
+  "bug_report-criticality2": "bug_report-criticality2",
+  "bug_report-criticality3": "bug_report-criticality3",
+  "bug_report-criticality4": "bug_report-criticality4",
+
+
+  
+
+
+
+  "drafts-wdqqwd": "drafts"
+
+}
+  

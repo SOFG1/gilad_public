@@ -1,0 +1,1 @@
+export {default as SuggestedClientsComponent} from './SuggestedClientsComponent'
